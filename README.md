@@ -7,7 +7,7 @@ LyssaRDSGen is a website designed for the generation of Service Provider Keys (S
 ## Access
 
 The website can be accessed at the following address:
-[https://thecatontheceiling.github.io/LyssaRDSGen/](https://thecatontheceiling.github.io/LyssaRDSGen/)
+[https://blueli18428.github.io/RDSGen/](https://blueli18428.github.io/RDSGen/)
 
 ## Technical Basis
 
